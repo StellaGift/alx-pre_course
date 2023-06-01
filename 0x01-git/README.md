@@ -1,2 +1,1 @@
-My second readme
 I recently got enrolled into the ALX Software Engineering program. It's been less than two weeks and I'm beginning to feel the heat already. I have no doubt that this is going to be a challenging, albeit interesting journey and I'm so excited to embark on it, because I know that, with my Cybersecurity (Vulnerability Assessment and Penetration Testing) background, opportunities are going to be endless for me.
